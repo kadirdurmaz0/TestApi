@@ -13,4 +13,4 @@ packages/
 *.snupkg
 
 ## Config dosyaları
-TesApi/Settings/config.cs
+TesApi/settings/config.cs
